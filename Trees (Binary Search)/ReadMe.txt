@@ -1,1 +1,1 @@
-* Classes "Tree" and "AbstractTree" where provided
+* Classes "Tree" and "AbstractTree" were provided
